@@ -1,2 +1,1 @@
-# PleaseFOff
- Pleas f*** off - the website!
+Shows a random picture of someone sticking up their middle finger while playing the soundtrack of a baby telling you to f--- off. Ideal for that little Twitter spat.
